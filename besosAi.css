@@ -63,6 +63,7 @@ body {
     flex-grow: 1;
     background-color: rgb(70, 92, 87);
     margin-right: 10px;
+    color: white;
     padding: 15px;
     border-radius: 10px;
     border: none;
