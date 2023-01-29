@@ -14,8 +14,12 @@ const chatbotResponse = {
     "wie gehts":"Gut und ihnen?",
     "wie gross ist er": "Besart ist 1.76m Auch Short King genannt.",
     "zeig mir besarts lebenslauf" : "https://www.besart-jashari.ch/besart.pdf",
-    "lebenslauf" : "https://www.besart-jashari.ch/besart.pdf"
-
+    "lebenslauf" : "https://www.besart-jashari.ch/besart.pdf",
+    "grüezi" : "Grüezi! Für ein besseres erlebniss mit mir, Schreibe auf Hochdeutsch",
+    "Wann wurde Besart geboren" : "Besart Wurde am 31.07.1996 in Uznach Geboren.",
+    "was ist besarts lieblings essen" : "Döner!",
+    "welche Hobbies hat besart" : "Besart Geht gerne ins Gym und spielt Volleyball, Projekte wie diese machen ihm aber genauso spass.",
+    "hobbies" : "Besart Geht gerne ins Gym und spielt Volleyball, Projekte wie diese machen ihm aber genauso spass."
 
 
     };
