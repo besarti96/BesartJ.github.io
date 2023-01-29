@@ -6,7 +6,7 @@ const chatbotResponse = {
             "wo wohnst du": "Melde dich doch bei mir um ein Vorstellungsgespräch um uns besser Kennenzulernen.",
             "wo wohnt besart": "Melde dich doch bei mir um ein Vorstellungsgespräch um uns besser Kennenzulernen.",
             "woher ist besart": "Besart ist Schweizer, doch um zu wissen wo er wohnt müsst ihr euch besser kennenlernen. Ich schlage ein vorstellungsgespräch vor.",
-            "was sind besarts stärken": "Keine du spasst.",
+            "was sind besarts stärken": "Besart kann einiges Sehr gut..  wie zum beispiel:  hmmm....",
             "was sind besarts schwächen": "keine du opfer",
             "wie alt ist besart": "Besart ist 26 Jahre alt.",
             "hi": "halluhii, was willst du über Besart Jashari wissen.",
@@ -82,7 +82,7 @@ const chatbotResponse = {
             let highestSimilarity = 0;
             for (const [key, value] of Object.entries(chatbotResponse)) {
             const similarityValue = similarity(message, key);
-            if (similarityValue > highestSimilarity && similarityValue >= 0.6) {
+            if (similarityValue > highestSimilarity && similarityValue >= 0.4) {
             closestMatch = value;
             highestSimilarity = similarityValue;
             }
