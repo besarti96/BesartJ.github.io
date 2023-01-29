@@ -20,9 +20,11 @@ const chatbotResponse = {
     "was ist besarts lieblings essen" : "Döner!",
     "welche Hobbies hat besart" : "Besart Geht gerne ins Gym und spielt Volleyball, Projekte wie diese machen ihm aber genauso spass.",
     "hobbies" : "Besart Geht gerne ins Gym und spielt Volleyball, Projekte wie diese machen ihm aber genauso spass.",
-    "wie geht es besart: "besart geht es Gut, Er hofft ihnen geht es auch gut",
+    "wie geht es besart": "besart geht es Gut, Er hofft ihnen geht es auch gut",
     "wie alt" : "Besart ist 26 jahre alt",
-    "hallo besart": "Grüezi! nun ich bin nicht Besart, sondern Besarts Chatbot"
+    "hallo besart": "Grüezi! nun ich bin nicht Besart, sondern Besarts Chatbot",
+    "besart ist dumm" : "Tatsächlich eben nicht, hast du sonst noch fragen :)",
+    "english" : "Leider nicht, Aber daran arbeitet Besart gerade."
 
 
     };
@@ -94,7 +96,7 @@ const chatbotResponse = {
         "was sind besarts schwächen\n" +
         "was sind besarts stärken?" 
         : 
-        "I'm sorry, I don't understand.");
+        "Es tut mir leid das verstehe ich nicht.");
       
 //Ausgabe frage und antwort
 
