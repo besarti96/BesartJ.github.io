@@ -6,7 +6,7 @@ const chatbotResponse = {
             "wo wohnst du": "Melde dich doch bei mir um ein Vorstellungsgespräch um uns besser Kennenzulernen.",
             "wo wohnt besart": "Melde dich doch bei mir um ein Vorstellungsgespräch um uns besser Kennenzulernen.",
             "woher ist besart": "Besart ist Schweizer, doch um zu wissen wo er wohnt müsst ihr euch besser kennenlernen. Ich schlage ein vorstellungsgespräch vor.",
-            "was sind besarts stärken": "Besart kann einiges Sehr gut..  wie zum beispiel:  hmmm....",
+            "was sind besarts stärken": "Alle du spasst.",
             "was sind besarts schwächen": "keine du opfer",
             "wie alt ist besart": "Besart ist 26 Jahre alt.",
             "hi": "halluhii, was willst du über Besart Jashari wissen.",
@@ -26,8 +26,8 @@ const chatbotResponse = {
             "besart ist dumm" : "Tatsächlich eben nicht, hast du sonst noch fragen :)",
             "english" : "Leider nicht, Aber daran arbeitet Besart gerade.",
             "hallo besart, wie geht es ihnen?": "Ich bin nicht besart!",
-            "Weshalb soll ich besart einstellen" : "Das liegt ganz bei ihnen :D",
-            "Besarts ursprung" :"ALIEN"
+            "Was kann besart?" : "Einiges, aber das Müssen sie ihn Persöhnlich fragen",
+            "Welche programmiersparchen beherrst besart" : "Tja, schwirige frage, um eine Programmiersprache zu Beherrschen, Braucht es mehr als ein Chatbot.         Besart hat jedoch einblicke in die Sprachen, C++, Javascript, HTML, CSS"
         
         
             };
