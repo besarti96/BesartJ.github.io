@@ -19,7 +19,10 @@ const chatbotResponse = {
     "Wann wurde Besart geboren" : "Besart Wurde am 31.07.1996 in Uznach Geboren.",
     "was ist besarts lieblings essen" : "Döner!",
     "welche Hobbies hat besart" : "Besart Geht gerne ins Gym und spielt Volleyball, Projekte wie diese machen ihm aber genauso spass.",
-    "hobbies" : "Besart Geht gerne ins Gym und spielt Volleyball, Projekte wie diese machen ihm aber genauso spass."
+    "hobbies" : "Besart Geht gerne ins Gym und spielt Volleyball, Projekte wie diese machen ihm aber genauso spass.",
+    "wie geht es besart: "besart geht es Gut, Er hofft ihnen geht es auch gut",
+    "wie alt" : "Besart ist 26 jahre alt",
+    "hallo besart": "Grüezi! nun ich bin nicht Besart, sondern Besarts Chatbot"
 
 
     };
