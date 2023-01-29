@@ -27,7 +27,9 @@ const chatbotResponse = {
             "english" : "Leider nicht, Aber daran arbeitet Besart gerade.",
             "hallo besart, wie geht es ihnen?": "Ich bin nicht besart!",
             "Was kann besart?" : "Einiges, aber das Müssen sie ihn Persöhnlich fragen",
-            "Welche programmiersparchen beherrst besart" : "Tja, schwirige frage, um eine Programmiersprache zu Beherrschen, Braucht es mehr als ein Chatbot.         Besart hat jedoch einblicke in die Sprachen, C++, Javascript, HTML, CSS"
+            "Welche programmiersparchen beherrst besart" : "Tja, schwirige frage, um eine Programmiersprache zu Beherrschen, Braucht es mehr als ein Chatbot.         Besart hat jedoch einblicke in die Sprachen, C++, Javascript, HTML, CSS",
+            "stärken" : "Besart kann einiges sehr gut, und einiges nicht. wie siehts bei dir aus?",
+            "schwächen?" : "Keine Schwächen"
         
         
             };
