@@ -76,4 +76,16 @@ body {
     border: none;
     cursor: pointer;
   }
+/*COde für Mobile geräte*/
+  @media (max-width: 767px) {
+    #chatbox {
+      width: 83%;
+      margin: 20px 5%;
+    }
+   
+    body {
+      font-size: 14px;
+    }
+  }
+
  
