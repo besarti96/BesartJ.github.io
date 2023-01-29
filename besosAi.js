@@ -25,7 +25,9 @@ const chatbotResponse = {
             "hallo besart": "Grüezi! nun ich bin nicht Besart, sondern Besarts Chatbot",
             "besart ist dumm" : "Tatsächlich eben nicht, hast du sonst noch fragen :)",
             "english" : "Leider nicht, Aber daran arbeitet Besart gerade.",
-            "hallo besart, wie geht es ihnen?": "Ich bin nicht besart!"
+            "hallo besart, wie geht es ihnen?": "Ich bin nicht besart!",
+            "Weshalb soll ich besart einstellen" : "Das liegt ganz bei ihnen :D",
+            "Besarts ursprung" :"ALIEN"
         
         
             };
