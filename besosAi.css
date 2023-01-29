@@ -8,8 +8,8 @@ body {
     margin-top: 35px;
   }
   
-  #chatbox {
-    width: 750px;
+  #chatbox {/*CHatbox margin in % weil ganz offen wollen wir nicht das es eine gannze seite voller chat ist. */
+    width: 60%; 
     margin: 50px auto;
     background-color: white;
     border-radius: 10px;
@@ -76,8 +76,9 @@ body {
     border: none;
     cursor: pointer;
   }
-/*COde für Mobile geräte*/
-  @media (max-width: 767px) {
+
+  /*Code für mobile Geräte*//*ab 900px bildschirm ist fast der ganze screen ein chat. */
+  @media (max-width: 900px) {
     #chatbox {
       width: 83%;
       margin: 20px 5%;
@@ -88,4 +89,3 @@ body {
     }
   }
 
- 
