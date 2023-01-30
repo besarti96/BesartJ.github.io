@@ -29,7 +29,8 @@ const chatbotResponse = {
             "Was kann besart?" : "Einiges, aber das Müssen sie ihn Persöhnlich fragen",
             "Welche programmiersparchen beherrst besart" : "Tja, schwirige frage, um eine Programmiersprache zu Beherrschen, Braucht es mehr als ein Chatbot.         Besart hat jedoch einblicke in die Sprachen, C++, Javascript, HTML, CSS",
             "stärken" : "Besart kann einiges sehr gut, und einiges nicht. wie siehts bei dir aus?",
-            "schwächen?" : "Keine Schwächen"
+            "schwächen?" : "Keine Schwächen",
+            "was arbeitet Besart aktuell" : "Aktuell, Arbeitet Besart Jashari als Service techniker bei Falu AG"
         
         
             };
