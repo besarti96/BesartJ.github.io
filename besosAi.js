@@ -66,7 +66,11 @@ const chatbotResponse = {
             s1 = s1.toLowerCase();
             s2 = s2.toLowerCase();
             
+            //die art auf javascript ein array zu erstellen
             let costs = new Array();
+                        
+            //Levenshtein-Algorithmus: Die ähnlichkeit von zweier Zeichenfolgen berechnen indem man die anzahl der Bearbeitungsschritte berechnet.
+                        
             for (let i = 0; i <= s1.length; i++) {
             let lastValue = i;
             for (let j = 0; j <= s2.length; j++) {
