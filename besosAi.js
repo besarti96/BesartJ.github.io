@@ -1,3 +1,5 @@
+//Objekt mit schlüsselwort Paaren
+
 const chatbotResponse = {
             "hallo": "Grüezi!",
             "Wie alt bist du": "Oh.. Ihnen interessiert sicher Wie alt Besart Jashari ist. Besart Ist 26 Jahre alt.!",
@@ -34,13 +36,15 @@ const chatbotResponse = {
         
         
             };
-            
+    //Abfruf HTML Chatinput chatform chatlogs
             const input = document.getElementById("chatinput");
             const submit = document.getElementById("chatform");
             const chatlogs = document.getElementById("chatlogs");
             
             let counter = 0;
-            
+
+    //Wort längen vergleichen s1-s2, wenn die länge der schlüsselworte gleich ist, wir 1.0 zurückgegeben. ansonsten wird die ähnlichkeit berechnet
+
             function similarity(s1, s2) {
             let longer = s1;
             let shorter = s2;
