@@ -18,7 +18,7 @@ body {
   }
   
   #chatlogs {
-    height: 350px;
+    height: 400px;
     overflow-y: scroll;
     padding: 15px;
   }
